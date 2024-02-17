@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bill MOU</h1>
-<h3 align="center">A rookie coder from China.</h3>
+<h1 align="center">Hi 👋, I'm Zirui MOU</h1>
+<h3 align="center">A rookie coder from Hong Kong, China.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzr-skywalker&label=Profile%20views&color=0e75b6&style=flat" alt="mzr-skywalker" /> </p>
 
